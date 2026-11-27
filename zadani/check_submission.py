@@ -31,7 +31,7 @@ import numpy as np
 import pandas as pd
 
 TARGET = "share_15_54"
-DEFAULT_DATA = Path(__file__).resolve().parent / "data"
+DEFAULT_DATA = "../stymuuuuu/data"
 TIME_LIMIT_MIN = 4
 SHUFFLE_TOL = 1e-5
 
